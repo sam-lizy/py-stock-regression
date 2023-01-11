@@ -54,7 +54,7 @@
 
 ### 4.最终四因子计算公式为：
 
-![](png (1).png)
+![](png(1).png)
 
 其中，RIT代表i周t股票的周平均收益率，shibort值为上海银行间同业拆借利率一年的数据并按周平均计算的结果。Fama-French三因子回归是量化中最经典的模型之一，最早提出是在论文《Common risk factors in the returns on stocks and bonds》中，FAMA三因子回归模型可表示如下
 
@@ -66,6 +66,6 @@ Fama-French三因子回归通过计算上述的三个因子，对股票的收益
 
 ![](png(2).png)
 
-![](png (3).png)
+![](png(3).png)
 
-![](png (4).png)
+![](png(4).png)
